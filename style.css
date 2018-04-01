@@ -1,0 +1,67 @@
+  body {
+    background-color: #fcfcfc;
+    color: #3d3d3d;
+    font-family: Helvetica;
+    text-align: center;
+  }
+    p {
+      font-size: 18px;
+    }
+    button {
+      border: none;
+      font-family: Helvetica;
+      background-color: #0087cc;
+      border-radius: 4px;
+      box-shadow: 0 5px 0 #006599;
+      cursor: pointer;
+      transition: all .1s linear;
+      color: white;
+      font-size: 16px;
+      padding: 15px 32px;
+    }
+    button:active {
+      box-shadow: 0 2px 0 #006599;
+      transform: translateY(3px);
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      border-radius: 3px;
+    }
+    li {
+      float: left;
+      border-right:1px solid #bbb;
+    }
+    li:last-child {
+      border-right:none;
+    }
+    li a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      transition-property: background;
+      transition-duration: .1s;
+      transition-timing-function: linear;
+    }
+    li a:hover:not(.active) {
+      background-color: #111;
+    }
+    .active {
+      background-color: #4caf50;
+    }
+    .active:hover {
+      background-color: #449d48;
+    }
+    input {
+      padding: 6px;
+      font-size: 18px;
+      width: 80px;
+    }
+    #randomnumber {
+      font-size: 64px;
+    }
