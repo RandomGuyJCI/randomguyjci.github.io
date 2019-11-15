@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/randomguyjci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://randomguyjci.github.io
+  * I am randomguyjci (https://keybase.io/randomguyjci) on keybase.
+  * I have a public key ASAIGTZMgeuqagsRDm4tHwqfZ79WB5P-lOEDEVfj4O5-Awo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200819364c81ebaa6a0b110e6e2d1f0a9f67bf560793fe94e1031157e3e0ee7e030a",
+      "host": "keybase.io",
+      "kid": "01200819364c81ebaa6a0b110e6e2d1f0a9f67bf560793fe94e1031157e3e0ee7e030a",
+      "uid": "2126a00de3391d75c2c5595b80846b19",
+      "username": "randomguyjci"
+    },
+    "merkle_root": {
+      "ctime": 1573797865,
+      "hash": "ecd4ac0453cfa086bbe7f717349b2df94448f8847d0a0e018ded22e04dba19349c14908c75a45ed104881f9f18bedd223e58559cf1fa4d492086e9df253f387c",
+      "hash_meta": "aafb2da9e1889edb7e3f334644abff54335b4dd2f519ffc4216e938041a3baf0",
+      "seqno": 9635339
+    },
+    "service": {
+      "entropy": "JMIacvT2Y2MNNlj7dxEqEtAE",
+      "hostname": "randomguyjci.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573797876,
+  "expire_in": 504576000,
+  "prev": "836966f9d99e68e3d089940060a6c6f39d2d8cf4e9aa9109cdc3777f39e7588e",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCBk2TIHrqmoLEQ5uLR8Kn2e/VgeT/pThAxFX4+DufgMKp3BheWxvYWTESpcCB8Qgg2lm+dmeaOPQiZQAYKbG850tjPTpqpEJzcN3fznnWI7EIJ5rb28CfzJwZAFXmV3WK5B7Zx26cajziEgZAWtud85qAgHCo3NpZ8RA3dDl2/z1gOaD2cO7vUY9CedmeohIDgiHzT0jXIcySsGNPNRP200WGGGQGaW/PTzFcVRWB0rE919ncphAmnWGC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA5DWQ7A4PhQWmZ/k3Xmue0U8Gw1EOTbhCtNEoiMJELZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/randomguyjci
+
+==================================================================
